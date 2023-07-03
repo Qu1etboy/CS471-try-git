@@ -1,13 +1,15 @@
 package myapp;
 
-public class Cat {
+public class Dog {
     private String name;
 
-    public Cat(String name) {
+    public Dog(String name) {
         this.name = name;
     }
 
     public String getName() {
+
+
         return name;
     }
 }
